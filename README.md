@@ -1,7 +1,7 @@
--Hi, I’m @Vz-3
--I’m interested in something and anything in between
--I’m currently being lazy
--I’m looking to collaborate on anything interesting
+@Vz-3
+#interested in something and anything in between
+#I’m currently being lazy
+#data science.
 -Vzzz#6018
 
 <!---
